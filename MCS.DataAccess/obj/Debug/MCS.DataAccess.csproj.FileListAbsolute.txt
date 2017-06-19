@@ -1,0 +1,28 @@
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.DataAccess.dll
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.DataAccess.pdb
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.dll
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.Models.dll
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.Models.pdb
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.xml
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\obj\Debug\MCS.DataAccess.csprojResolveAssemblyReference.cache
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\obj\Debug\MCS.DataAccess.dll
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\obj\Debug\MCS.DataAccess.pdb
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.SimpleCRUD.dll
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.SimpleCRUD.xml
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.pdb
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.Infrastructure.dll
+D:\(07) GW Projects\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.Infrastructure.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\obj\Debug\MCS.DataAccess.csprojResolveAssemblyReference.cache
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\obj\Debug\MCS.DataAccess.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\obj\Debug\MCS.DataAccess.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.DataAccess.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.DataAccess.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.SimpleCRUD.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.Models.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\MCS.Models.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.xml
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.DataAccess\bin\Debug\Dapper.SimpleCRUD.xml
