@@ -20,11 +20,22 @@ namespace MCS.Windows {
         }
 
         private void btnInsert_Click(object sender, EventArgs e) {
+            var roleId = 1;
+            var roleData = new RolesData();
+            if (roleData.GetAllCount() <= 0){
+              roleId = roleData.Insert(
+                    new RoleInfo(){
+                        Name = "Admin",
+                        Description = "Administrator",
+                        IsActive = true
+                });
+            }
+
             var info = new UserInfo() {
                 FirstName = string.Format("FN{0}", mark),
                 LastName = string.Format("LN{0}", mark),
                 DateOfBirth = DateTime.Now.AddYears(-mark),
-                RoleId = 1,
+                RoleId = roleId,
                 IsActive = true
             };
             var returnKey = new UsersData().Insert(info);

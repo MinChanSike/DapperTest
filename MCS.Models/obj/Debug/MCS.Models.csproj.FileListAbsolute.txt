@@ -9,3 +9,14 @@ D:\(07) GW Projects\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.pdb
 D:\(07) GW Projects\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.xml
 D:\(07) GW Projects\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.SimpleCRUD.pdb
 D:\(07) GW Projects\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.SimpleCRUD.xml
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\MCS.Models.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\MCS.Models.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.SimpleCRUD.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.xml
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\bin\Debug\Dapper.SimpleCRUD.xml
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\obj\Debug\MCS.Models.csprojResolveAssemblyReference.cache
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\obj\Debug\MCS.Models.dll
+D:\(08)MCS_Tests\Net\MCS.DapperTestProj\MCS.Models\obj\Debug\MCS.Models.pdb
